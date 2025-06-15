@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<h1 align="center">Hi 👋, I'm Gautam Tanu</h1>
+<h1 align="center">Hi 👋, I'm Tanu Gautam </h1>
 <h3 align="center">AI/ML Enthusiast | Python Developer | Computer Vision Specialist</h3>
 
 ---
