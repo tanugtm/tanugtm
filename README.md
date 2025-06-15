@@ -31,7 +31,7 @@
 💻 Working on projects like Fire Detection, ANPR, WhatsApp Tracker  
 📊 Data Analyst | Python | TinyML | General AI  
 🌱 Currently exploring: AI Recommender Systems, IoT  
-📫 Reach me at: gautamtanu@email.com  
+📫 Reach me at: Tanugautam0202@email.com  
 🧠 Fun Fact: I believe in building **real-world AI solutions** with impact!
 
 ### 🚀 Projects
